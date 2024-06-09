@@ -11,7 +11,7 @@
 
 #else
 
-#define TONE_PIN D1;  // ESP8266 WeMos D1 mini definitions
+#define TONE_PIN D1  // ESP8266 WeMos D1 mini definitions
 
 #endif
 
